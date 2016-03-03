@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="iqdb.ColorSignature">
+    <Position X="4.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEgAAAAAAAAAAQGAgAAAEAAAggAAAAACAQAAAAAAA=</HashCode>
+      <FileName>ColorSignature.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="iqdb.HaarQueryResult" Collapsed="true">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAIAAAwAAAAACAAAAABAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>HaarQueryResult.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="iqdb.HaarQuerySparseMatrix">
+    <Position X="7" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAEAAACJAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HaarQuerySparseMatrix.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="iqdb.HaarSignature">
+    <Position X="2.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAkAAAQQCAAEIQEGEgIAAAAACBQABAkAEBQQEAAACA=</HashCode>
+      <FileName>HaarSignature.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="iqdb.QueryResult" Collapsed="true">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>QueryResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="iqdb.QuerySparseMatrix">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAACBAACAAAAAACAAAAAA=</HashCode>
+      <FileName>QuerySparseMatrix.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="iqdb.Signature">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAIAgAAAAAAIIAAEACBgIAAAAAAEAAAAAAQ=</HashCode>
+      <FileName>Signature.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="iqdb.MiniSig">
+    <Position X="9.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAAAAAAAAAEAAAEAAAAAAAAAA=</HashCode>
+      <FileName>HaarQuerySparseMatrix.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
